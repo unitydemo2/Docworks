@@ -5,7 +5,7 @@
 
     - [ManualVersions](ManualVersions)
     - [Switching between Unity versions](SwitchingDocumentationVersions)
-    - [OfflineDocumentation](OfflineDocumentation)
+    - [renametest](renametest)
     - [WhatsNew56](WhatsNew56)
     - [Leave Feedback](LeaveFeedback)
 
