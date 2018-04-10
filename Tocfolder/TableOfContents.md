@@ -12,4 +12,4 @@ Unity Manual ToC
         * [Leave Feedback](LeaveFeedback)
     * [InstallingUnity](InstallingUnity)
         * [Deploying Unity Offline](DeployingUnityOffline)
-        * [class-AudioManager][class-AudioManager]
+        * [class-AudioManager](class-AudioManager)
