@@ -4,6 +4,9 @@
   - [UnityManual](UnityManual_1)
 
     - [ManualVersions](ManualVersions)
+
+      - [Nodes](Nodes)
+
     - [Switching between Unity versions](SwitchingDocumentationVersions)
     - [OfflineDocumentation](OfflineDocumentation)
     - [WhatsNew56](WhatsNew56)
