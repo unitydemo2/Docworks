@@ -9,5 +9,6 @@ Unity Manual TOC
 		 - [WhatsNew56](WhatsNew56)
 		 - [Leave Feedback](LeaveFeedback)
 	 - [InstallingUnity](InstallingUnity)
+		 - [DemoNode15](DemoNode15)
 		 - [Deploying Unity Offline](DeployingUnityOffline)
 
