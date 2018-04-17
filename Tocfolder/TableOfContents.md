@@ -6,7 +6,7 @@ Unity Manual TOC
 		 - [ManualVersions](ManualVersions)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions)
 		 - [OfflineDocumentation](OfflineDocumentation)
-			 - [github bytes](githubbytes)
+			 - [updated title](githubbytes)
 		 - [WhatsNew56](WhatsNew56)
 		 - [Leave Feedback](LeaveFeedback)
 	 - [InstallingUnity](InstallingUnity)
