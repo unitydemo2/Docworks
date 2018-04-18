@@ -3,7 +3,7 @@ Unity Manual TOC
 
  - [UnityManual](UnityManual)
 	 - [UnityManual](UnityManual_1)
-		 - [DemoNode15](DemoNode15)
+		 - [rename short title](renamefilename)
 		 - [ManualVersions](ManualVersions)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions)
 		 - [OfflineDocumentation](OfflineDocumentation)
