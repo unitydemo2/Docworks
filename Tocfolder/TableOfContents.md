@@ -8,7 +8,4 @@ Unity Manual TOC
 		 - [OfflineDocumentation](OfflineDocumentation)
 		 - [WhatsNew56](WhatsNew56)
 		 - [Leave Feedback](LeaveFeedback)
-	 - [InstallingUnity](InstallingUnity)
-		 - [rename short title](renamefilename)
-		 - [Deploying Unity Offline](DeployingUnityOffline)
 
