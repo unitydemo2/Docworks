@@ -3,6 +3,7 @@ Unity Manual TOC
 
  - [UnityManual](UnityManual)
 	 - [UnityManual](UnityManual_1)
+		 - [new node pub](newnodepub)
 		 - [ManualVersions](ManualVersions)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions)
 		 - [OfflineDocumentation](OfflineDocumentation)
