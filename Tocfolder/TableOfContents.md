@@ -2,6 +2,7 @@ Unity Manual TOC
 ================
 
  - [UnityManual](UnityManual)
+	 - [New Node](NewNode_1)
 	 - [UnityManual](UnityManual_1)
 		 - [ManualVersions](ManualVersions)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions)
