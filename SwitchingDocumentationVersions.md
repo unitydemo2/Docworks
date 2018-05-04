@@ -1,4 +1,4 @@
-Use the  apps and experiences. Download the Editor at [unity3d.com](https://unity3d.com/unity).
+Use the apps and experiences. Download the Editor at [unity3d.com](https://unity3d.com/unity).
 
 The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference. zx
 
