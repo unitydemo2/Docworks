@@ -6,5 +6,5 @@ __Version control systems__ (__VCS__) most commonly run as stand-alone applicati
 
 [Software tools for version control](https://en.wikipedia.org/wiki/List_of_version_control_software) are essential for the organization of multi-developer projects.[[3]](https://en.wikipedia.org/wiki/Version_control#cite_note-3)
 
-gfgytyrtryt
+Gfgytyrtryt frrtyrth
 
