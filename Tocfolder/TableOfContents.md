@@ -6,6 +6,7 @@ Unity Manual TOC
 		 - [ManualVersions](ManualVersions.md)
 		 - [Switching between Unity versions](SwitchingDocumentationVersions.md)
 		 - [OfflineDocumentation](OfflineDocumentation.md)
+			 - [CMSAPIKBAG7](CMSAPIKBAG7.md)
 			 - [CMSAPICJCTJ](CMSAPICJCTJ.md)
 			 - [CMSAPIWIQFW](CMSAPIWIQFW.md)
 		 - [WhatsNew56](WhatsNew56.md)
