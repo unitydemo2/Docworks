@@ -5,6 +5,7 @@ The Unity Manual and Scripting API hold documentation for several versions of Un
 ![](../uploads/Main/SwitchingDocumentationVersions.png)
 
 It is not currently possible to look at an individual Unity documentation page and switch between its versions. Switching versions always takes you back to the home page. 
+[ManualVersions.md ](ManualVersions.md)
 
 
 
