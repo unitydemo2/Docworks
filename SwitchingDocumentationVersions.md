@@ -6,11 +6,13 @@ The Unity Manual and Scripting API hold documentation for several versions of Un
 
 It is not currently possible to look at an individual Unity documentation page and switch between its versions. Switching versions always takes you back to the home page.
 
-[project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669](project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669)
+[ManualVersions.md](ManualVersions.md)
 
-[project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669](project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669)
+[ManualVersions.md](ManualVersions.md)
 
-[project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669](project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669)
+[ManualVersions.md](ManualVersions.md)
+
+[ManualVersions.md](ManualVersions.md)
 
 To learn how to use a temporary workaround, follow these steps:
 
@@ -48,7 +50,7 @@ __A note from the Unity Docs team:__
 
 Many users have told us that this situation is not ideal, and we want you to know that we have heard you. Please be assured that we are working on a fix to preserve the page you are on while switching versions.
 
-[project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669](project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669)
+[ManualVersions.md](ManualVersions.md)
 
 Thank you for your patience while we work to make the Unity documentation a more efficient and intuitive tool for our users.
 
