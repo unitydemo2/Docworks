@@ -8,6 +8,10 @@ It is not currently possible to look at an individual Unity documentation page a
 
 [project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669](project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669)
 
+[project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669](project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669)
+
+[project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669](project/5b1a812efac6931564466664/distribution/5b1fdd420834d577b010765d/document/5b1fdeb50834d577b0107669)
+
 To learn how to use a temporary workaround, follow these steps:
 
 From the Manual or Scripting API home page, switch the version you are viewing using the __Version__ link in the top-left corner of the page. Note that the structure of the URL changes. Each version has a specific URL:
