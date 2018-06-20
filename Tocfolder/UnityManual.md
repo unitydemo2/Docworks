@@ -18,35 +18,35 @@ __Best practice and expert guides__
 
 ### Unity User Manual sections
 
-[![Main.UnityOverview](../uploads/Main/StructEditor.jpg)](UnityOverview) ###[Working in Unity](UnityOverview)### A complete introduction to the Unity Editor.
+![image alt text](image_0.jpg) ###[Working in Unity](http://docs.google.com/UnityOverview)### A complete introduction to the Unity Editor.
 
-[![Main.Unity2D](../uploads/Main/struct2d.jpg)](Unity2D) ###[Unity 2D](Unity2D)### All of the Unity Editor's 2D-specific features including gameplay, sprites and physics.
+![image alt text](image_0.jpg) ###[Unity 2D](http://docs.google.com/Unity2D)### All of the Unity Editor's 2D-specific features including gameplay, sprites and physics.
 
-[![Main.Graphics](../uploads/Main/StructGraphics.jpg)](Graphics) ###[Graphics](Graphics)### The visual aspects of the Unity Editor including cameras and lighting.
+![image alt text](image_0.jpg) ###[Graphics](http://docs.google.com/Graphics)### The visual aspects of the Unity Editor including cameras and lighting.
 
-[![Main.PhysicsSection](../uploads/Main/StructPhysics.jpg)](PhysicsSection) ###[Physics](PhysicsSection)### Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space.
+![image alt text](image_0.jpg) ###[Physics](http://docs.google.com/PhysicsSection)### Physics in the Unity Editor, including Rigidbody components and manipulating them in 3D space.
 
-[![Main.UNet](../uploads/Main/StructUNet.png)](UNet) ###[Networking](UNet)### How to implement Multiplayer and networking.
+![image alt text](image_0.jpg) ###[Networking](http://docs.google.com/UNet)### How to implement Multiplayer and networking.
 
-[![Main.ScriptingSection](../uploads/Main/StructScripting.jpg)](ScriptingSection) ###[Scripting](ScriptingSection)### Programming your games by using scripting in the Unity Editor.
+![image alt text](image_0.jpg) ###[Scripting](http://docs.google.com/ScriptingSection)### Programming your games by using scripting in the Unity Editor.
 
-[![Main.Audio](../uploads/Main/StructAudio.jpg)](Audio) ###[Audio](Audio)### Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings.
+![image alt text](image_0.jpg) ###[Audio](http://docs.google.com/Audio)### Audio in the Unity Editor, including clips, sources, listeners, importing and sound settings.
 
-[![Main.AnimationSection](../uploads/Main/StructAnimation.jpg)](AnimationSection) ###[Animation](AnimationSection)### Animation in the Unity Editor.
+![image alt text](image_0.jpg) ###[Animation](http://docs.google.com/AnimationSection)### Animation in the Unity Editor.
 
-[![Main.UISystem](../uploads/Main/StructUI.jpg)](UISystem) ###[UI](UISystem)### The Unity Editor's UI system.
+![image alt text](image_0.jpg) ###[UI](http://docs.google.com/UISystem)### The Unity Editor's UI system.
 
-[![Main.Navigation](../uploads/Main/StructNavigation.jpg)](Navigation) ###[Navigation](Navigation)### Navigation in the Unity Editor, including AI and pathfinding.
+![image alt text](image_0.jpg) ###[Navigation](http://docs.google.com/Navigation)### Navigation in the Unity Editor, including AI and pathfinding.
 
-[![Main.Services](../uploads/Main/ServicesSection.png)](UnityServices) ###[Unity services](UnityServices)###
+![image alt text](image_0.jpg) ###[Unity services](http://docs.google.com/UnityServices)###
 
-[![Main.VROverview](../uploads/Main/StructVR.jpg)](VROverview) ###[Virtual reality](VROverview)###
+![image alt text](image_0.jpg) ###[Virtual reality](http://docs.google.com/VROverview)###
 
-[![Main.ContributingToUnity](../uploads/Main/StructContributingToUnity.jpg)](ContributingToUnity) ###[Contributing to Unity](ContributingToUnity)### Suggest modifications to some of the Unity Editor's source code.
+![image alt text](image_0.jpg) ###[Contributing to Unity](http://docs.google.com/ContributingToUnity)### Suggest modifications to some of the Unity Editor's source code.
 
-[![Main.PlatformSpecific](../uploads/Main/StructPlatformSpecific.jpg)](PlatformSpecific) ###[Platform specific](PlatformSpecific)### Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor.
+![image alt text](image_0.jpg) ###[Platform specific](http://docs.google.com/PlatformSpecific)### Specific information for the many non-desktop and web platforms you can make projects for with the Unity Editor.
 
-[![Main.LegacyTopics](../uploads/Main/StructLegacyTopics.jpg)](LegacyTopics) ###[Legacy topics](LegacyTopics)### Useful if you are maintaining legacy projects.
+![image alt text](image_0.jpg) ###[Legacy topics](http://docs.google.com/LegacyTopics)### Useful if you are maintaining legacy projects.
 
 ### Further sources of information
 
