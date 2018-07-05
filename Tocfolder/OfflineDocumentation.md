@@ -1,7 +1,7 @@
 
 # Offline documentation
 
-You can download the Unity Documentation as a zip file for offline use. To download the current version of the Unity Documentation, click the link below.
+This document is for testing as a zip file for offline use. To download the current version of the Unity Documentation, click the link below.
 
 [Download: Offline Unity Documentation](../uploads/UnityDocumentation.zip) (Size: less than 300MB)
 
