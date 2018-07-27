@@ -2,8 +2,8 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
-	 - [RenameShortTitleST](RenameShortTitleSTUpdt.md)
 	 - [NewNodeSTUpdated](NewNodeST.md)
+	 - [RenameShortTitleST](RenameShortTitleSTUpdt.md)
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
