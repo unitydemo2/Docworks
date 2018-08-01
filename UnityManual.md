@@ -29,7 +29,7 @@ The Unity User Manual helps you learn how to use the Unity Editor and its associ
 
 <div class="frontpage-divider"></div>
 
-###Unity User Manual sections
+### Unity User Manual sections
 
 <div class="frontpage-section">
 [![Main.UnityOverview](../uploads/Main/StructEditor.jpg)](UnityOverview)
