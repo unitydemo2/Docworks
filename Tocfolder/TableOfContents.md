@@ -2,6 +2,7 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
+	 - [AddNode-Push-Live-GH](AddNode-Push-Live-GH.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
@@ -10,6 +11,6 @@ Unity Manual TOC
 		 - [WhatsNew56](WhatsNew56.md)
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
-		 - [InstallingUnity Overview1](InstallingUnity2.md)
+		 - [InstallingUnity Overview1]()
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
 
