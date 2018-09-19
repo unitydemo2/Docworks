@@ -2,6 +2,8 @@ Unity Manual TOC
 ================
 
  - [UnityManual]()
+	 - [usernode1](usernode1.md)
+	 - [usernode]()
 	 - [UnityManual Overview](UnityManual.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
