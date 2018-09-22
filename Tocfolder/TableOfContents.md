@@ -16,6 +16,7 @@ Unity Manual TOC
 		 - [OfflineDocumentation](OfflineDocumentation.md)
 		 - [Leave Feedback](LeaveFeedback.md)
 	 - [InstallingUnity]()
+		 - [node!](node!.md)
 		 - [node&](node&.md)
 		 - [InstallingUnity Overview](InstallingUnity.md)
 		 - [Deploying Unity Offline](DeployingUnityOffline.md)
